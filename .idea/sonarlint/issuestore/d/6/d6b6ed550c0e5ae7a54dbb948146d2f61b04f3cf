@@ -1,0 +1,9 @@
+
+p
+java:S3305 "UInject this field value directly into "rabbitTemplate", the only method that uses it.(·‚Õ±ùÿÿÿÿ
+p
+java:S3305""UInject this field value directly into "rabbitTemplate", the only method that uses it.(Ÿµˆÿÿÿÿÿÿ
+T
+java:S1874?"9Remove this use of "setReturnCallback"; it is deprecated.(ùÖ·øÿÿÿÿ
+G
+java:S1602?",Remove useless curly braces around statement(ùÖ·øÿÿÿÿ

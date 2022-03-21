@@ -1,0 +1,4 @@
+
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Á¼Ëü
+B
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®6

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.AppTest" time="0.024" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\AOpenSource\yeb\yeb-mail\target\test-classes;D:\AOpenSource\yeb\yeb-mail\target\classes;D:\Program Files (x86)\Maven\maven\MavenRepository\junit\junit\4.11\junit-4.11.jar;D:\Program Files (x86)\Maven\maven\MavenRepository\org\hamcrest\hamcrest-core\2.2\hamcrest-core-2.2.jar;D:\Program Files (x86)\Maven\maven\MavenRepository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="GMT+08:00"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\JAVA\jdk\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\何杉\AppData\Local\Temp\surefire8366964060654497759\surefirebooter6569895050670393991.jar C:\Users\何杉\AppData\Local\Temp\surefire8366964060654497759 2022-03-17T16-06-58_894-jvmRun1 surefire394608349753534107tmp surefire_02031496194906693398tmp"/>
+    <property name="surefire.test.class.path" value="D:\AOpenSource\yeb\yeb-mail\target\test-classes;D:\AOpenSource\yeb\yeb-mail\target\classes;D:\Program Files (x86)\Maven\maven\MavenRepository\junit\junit\4.11\junit-4.11.jar;D:\Program Files (x86)\Maven\maven\MavenRepository\org\hamcrest\hamcrest-core\2.2\hamcrest-core-2.2.jar;D:\Program Files (x86)\Maven\maven\MavenRepository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\何杉"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\JAVA\jdk\jre"/>
+    <property name="basedir" value="D:\AOpenSource\yeb\yeb-mail"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\何杉\AppData\Local\Temp\surefire8366964060654497759\surefirebooter6569895050670393991.jar"/>
+    <property name="sun.boot.class.path" value="D:\JAVA\jdk\jre\lib\resources.jar;D:\JAVA\jdk\jre\lib\rt.jar;D:\JAVA\jdk\jre\lib\sunrsasign.jar;D:\JAVA\jdk\jre\lib\jsse.jar;D:\JAVA\jdk\jre\lib\jce.jar;D:\JAVA\jdk\jre\lib\charsets.jar;D:\JAVA\jdk\jre\lib\jfr.jar;D:\JAVA\jdk\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_191-b12"/>
+    <property name="user.name" value="何杉"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\JAVA\jdk\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\Program Files (x86)\Maven\maven\MavenRepository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\何杉\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2021.3.1"/>
+    <property name="java.version" value="1.8.0_191"/>
+    <property name="user.dir" value="D:\AOpenSource\yeb\yeb-mail"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\JAVA\jdk\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;D:\Program Files (x86)\NetSarang\Xftp 6\;D:\Program Files (x86)\Xshell\;D:\Python\File\Scripts\;D:\Python\File\;D:\JAVA\jdk\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;D:\JAVA\jdk\jre\bin；;\Program Files\MySQL\MySQL Server 8.0\bin;D:\MYSQL\work;D:\matlab\runtime\win64;D:\matlab\bin;D:\Python\File;D:\Python;D:\Program Files (x86)\Maven\maven\apache-maven-3.6.1\bin;D:\Program Files (x86)\Tomcat\apache-tomcat-9.0.19\bin;D:\Program Files (x86)\Tomcat\apache-tomcat-9.0.19\lib;D:\Program Files (x86)\Gradle\gradle-5.4\bin;D:\Program Files (x86)\VSCode\Microsoft VS Code\bin;D:\JAVA\java12\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Git\cmd;D:\Program Files (x86)\Node.js\;C:\ProgramData\chocolatey\bin;D:\Program Files (x86)\WinSCP\;D:\Program Files (x86)\WinDumpforNpcap0.3\x64;D:\Program Files (x86)\MongoDB\bin;D:\JAVA\jdk14\bin;D:\Program Files\chromdriver;D:\Program Files (x86)\gradle-6.5.1-all\gradle-6.5.1\bin;D:\SofeTool\hadoop-3.1.0\bin;D:\AFile\rabbitmq\rabbitmq_server-3.9.13;D:\AFile\rabbitmq\erl-24.3\bin;D:\IDEA\IntelliJ IDEA 2019.1\bin;C:\Users\何杉\AppData\Local\Microsoft\WindowsApps;D:\WebStorm 2019.2.3\bin;C:\Users\何杉\AppData\Roaming\npm;D:\Program Files\Fiddler;D:\IDEA\GoLand 2020.1.3\bin;D:\IDEA\PyCharm 2020.1.2\bin;C:\Users\何杉\AppData\Local\gitkraken\bin;D:\HM\DevEco Studio 3.0.0.601\bin;D:\IDEA\IntelliJ IDEA 2021.3.1\bin;D:\wb\WebStorm 2021.3.1\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.191-b12"/>
+    <property name="java.ext.dirs" value="D:\JAVA\jdk\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="D:\Program Files (x86)\Maven\maven\MavenRepository"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.AppTest" time="0.001"/>
+</testsuite>
